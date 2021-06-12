@@ -1,0 +1,1 @@
+export const pokemonSelector = (s: any) => s.pokemon

@@ -1,0 +1,9 @@
+.theme-dark {
+    background-color: rgb(44, 44, 44);
+    color: white;
+}
+
+.theme-light {
+    color: rgb(44, 44, 44);
+    background-color: white;
+}
